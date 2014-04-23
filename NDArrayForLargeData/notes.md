@@ -1,5 +1,5 @@
-Notes for High Performance ND-Array for Design
-==============================================
+Notes for High Performance ND-Array for Large Data
+==================================================
 
 Current approaches
 -------------------
